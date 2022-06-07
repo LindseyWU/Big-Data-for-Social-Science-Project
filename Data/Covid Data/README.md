@@ -1,6 +1,6 @@
 ### COVID-19 Dataset by _Our World in Data_ 
-Website shields.io: https://ourworldindata.org/coronavirus
-Data: https://img.shields.io/badge/go_to-data-purple
+Website: https://ourworldindata.org/coronavirus
+
 documentation: https://docs.owid.io/projects/covid
 
 ### Confirmed cases data source
