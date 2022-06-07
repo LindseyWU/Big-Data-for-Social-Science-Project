@@ -15,8 +15,10 @@ Hannah Ritchie, Edouard Mathieu, Lucas Rodés-Guirao, Cameron Appel, Charlie Gia
     note = {https://ourworldindata.org/coronavirus}
 }
 ```
+Cite Vaccination Data:
+Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021)
 
-### Confirmed cases data source
+### Confirmed Cases Data Source
 the US CDC: https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
 
 #### Suggested Citation
