@@ -5,6 +5,7 @@ This dataset contains IDs and sentiment scores of geo-tagged tweets related to t
 
 #### Related publications:
 Lamsal, R. (2021). Design and analysis of a large-scale COVID-19 tweets dataset. Applied Intelligence, 51(5), 2790-2804.
+
 Lamsal, R., Harwood, A., & Read, M. R. (2022). Socially Enhanced Situation Awareness from Microblogs using Artificial Intelligence: A Survey. ACM Computing Surveys.
 
 - Dataset name: GeoCOV19Tweets Dataset
